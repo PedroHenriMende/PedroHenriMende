@@ -19,12 +19,12 @@ Fui integrante da equipe **FRC Steel Bulls 9460** por 3 anos, onde trabalhei no 
 ---
 
 ### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub de Pedro](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical)
+![Estatísticas do GitHub de Pedro](https://github-readme-stats.vercel.app/api?username=PedroHenriMende&show_icons=true&theme=radical)
 
 ---
 
 ### 📫 Como me encontrar:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN_AQUI)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEU_INSTAGRAM_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-jesus-aa4018383/overlay/about-this-profile/?trk=opento_sprofile_topcard)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_mjay)
 
 > "Always curious, always learning. ⚡"
