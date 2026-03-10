@@ -30,6 +30,8 @@ Fui integrante da equipe **FRC Steel Bulls 9460** por 3 anos, onde trabalhei no 
 
 ### 📊 Estatísticas do GitHub
 ![Estatísticas do GitHub de Pedro](https://github-readme-stats.vercel.app/api?username=PedroHenriMende&show_icons=true&theme=radical)
+![Gráfico de Linguagens Mais Usadas de Pedro](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriMende&layout=compact&theme=radical&hide=php,objective-c,kotlin)
+
 
 ---
 
