@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou o Pedro Henrique! 👋 (Software Developer | ADS Student)
 
-<!--
-**PedroHenriMende/PedroHenriMende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Formação & Status Atual
+- 🚀 Atualmente cursando o **1º Semestre de Análise e Desenvolvimento de Sistemas** na Faculdade SENAI Ribeirão Preto.
+- 📚 Concluí em 2025 o Ensino Médio no SESI e o Técnico em Desenvolvimento de Sistemas no SENAI.
+- 🛠️ 12 anos de trajetória no ecossistema SESI/SENAI.
 
-Here are some ideas to get you started:
+### 🤖 Robótica & Prêmios (FRC Alumni)
+Fui integrante da equipe **FRC Steel Bulls 9460** por 3 anos, onde trabalhei no **Project Bull AI**.
+- 🏆 Rookie Inspiration Award (Brasília)
+- 🏆 Finalist Award (Brasília)
+- 🏆 Quality Award (São Paulo - Reefscape)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Minha Stack & Ferramentas
+- **Linguagens:** JavaScript, TypeScript, Java, C#, Python.
+- **Outras Habilidades:** IA para Robótica, Lógica de Programação, Desenvolvimento Web.
+- **Hobbies:** Basketball 🏀, Gaming 🎮 e criar sites por diversão.
+
+---
+
+### 📊 Estatísticas do GitHub
+![Estatísticas do GitHub de Pedro](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical)
+
+---
+
+### 📫 Como me encontrar:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN_AQUI)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEU_INSTAGRAM_AQUI)
+
+> "Always curious, always learning. ⚡"
