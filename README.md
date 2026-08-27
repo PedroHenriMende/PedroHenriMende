@@ -1,7 +1,7 @@
 # Olá, eu sou o Pedro Henrique! 👋 (Software Developer | ADS Student)
 
 ### 🎓 Formação & Status Atual
-- 🚀 Atualmente cursando o **1º Semestre de Análise e Desenvolvimento de Sistemas** na Faculdade SENAI Ribeirão Preto.
+- 🚀 Atualmente cursando o **2º Semestre de Análise e Desenvolvimento de Sistemas** na Faculdade SENAI Ribeirão Preto.
 - 📚 Concluí em 2025 o Ensino Médio no SESI e o Técnico em Desenvolvimento de Sistemas no SENAI.
 - 🛠️ 12 anos de trajetória no ecossistema SESI/SENAI.
 
