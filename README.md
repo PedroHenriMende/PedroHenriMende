@@ -113,7 +113,7 @@ Também tenho base em **suporte técnico, hardware e redes**.
   <img src="https://githubcard.com/PedroHenriMende.svg" alt="Card de perfil GitHub de Pedro" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PedroHenriMende&theme=radical" alt="Sequência de contribuições de Pedro" />
+  <img src="./profile/streak.svg" alt="Sequência de contribuições de Pedro" />
 </p>
 
 ---
