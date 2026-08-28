@@ -110,8 +110,10 @@ Também tenho base em **suporte técnico, hardware e redes**.
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PedroHenriMende&show_icons=true&theme=radical" alt="Estatísticas do GitHub de Pedro" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriMende&layout=compact&theme=radical&hide=php,objective-c,kotlin" alt="Gráfico de Linguagens Mais Usadas de Pedro" />
+  <img src="https://githubcard.com/PedroHenriMende.svg" alt="Card de perfil GitHub de Pedro" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=PedroHenriMende&theme=radical" alt="Sequência de contribuições de Pedro" />
 </p>
 
 ---
